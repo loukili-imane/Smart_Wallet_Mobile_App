@@ -1,13 +1,19 @@
 # Smart_Wallet_Mobile_App : Manage your money wisely with smart wallet by your side
 ![image](https://github.com/loukili-imane/Smart_Wallet_Mobile_App/assets/93887037/df591714-60e2-4556-aaa0-429cae00e444)
-# Equipe : 
-- Azzouz Safa
-- Boussairi Ikram
-- Chakir Chaimae
-- Loukili Imane
-- Zraidi Najwa
-
+# Equipe du projet : 
+```
+    - Azzouz Safa
+    - Boussairi Ikram
+    - Chakir Chaimae
+    - Loukili Imane
+    - Zraidi Najwa
+```
 # Demonstration
+
+
+https://github.com/loukili-imane/Smart_Wallet_Mobile_App/assets/93887037/271e2b71-a47b-4d9b-aeb7-82bb6cf6a103
+
+
 # diagramme de cas d'utilisation
 ![Use case diagram](https://github.com/loukili-imane/Smart_Wallet_Mobile_App/assets/93887037/4dd91c3a-da5c-4224-9937-7fe009fecce1)
 # Diagramme de classes
