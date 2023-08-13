@@ -1,4 +1,4 @@
-# Smart_Wallet_Mobile_App : Manage your money wisely with smart wallet by your side
+# Smart_Wallet_Mobile_App 
 ![image](https://github.com/loukili-imane/Smart_Wallet_Mobile_App/assets/93887037/df591714-60e2-4556-aaa0-429cae00e444)
 # Equipe du projet : 
 ```
